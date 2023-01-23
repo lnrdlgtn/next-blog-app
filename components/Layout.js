@@ -4,7 +4,7 @@ import styles from "../styles/Layout.module.css";
 import { Inter } from "@next/font/google";
 
 const inter = Inter({ subsets: ["latin"] });
-// https://www.youtube.com/watch?v=mTz0GXj8NN0 ---> 46:49
+// https://www.youtube.com/watch?v=mTz0GXj8NN0 ---> 49:55
 const Layout = ({ children }) => {
   return (
     <>
